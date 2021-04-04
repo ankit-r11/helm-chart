@@ -3,7 +3,17 @@ entries:
   app1:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-04-04T15:23:40.505474716Z"
+    created: "2021-04-04T15:30:13.195178545Z"
+    description: A Helm chart for Kubernetes
+    digest: 4ea90d84035cf49f74a608c4d661d44c0c663c9c6fbdcf4fd9f46b89c1e5926c
+    name: app1
+    type: application
+    urls:
+    - https://ankit-r24.github.io/helm-chart/app1-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-04-04T15:30:13.194601386Z"
     description: A Helm chart for Kubernetes
     digest: 798c549a55040c7a6baf584e471128dd20fc163d3de25acfe6e511b6b0b94d46
     name: app1
@@ -14,7 +24,7 @@ entries:
   app2:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-04-04T15:23:40.505994011Z"
+    created: "2021-04-04T15:30:13.195737874Z"
     description: A Helm chart for Kubernetes
     digest: 5ba305cc310fa1e5518e01bfb3ca9bbb79fa622d7b038023d91e26f2577a6ca2
     name: app2
@@ -22,4 +32,4 @@ entries:
     urls:
     - https://ankit-r24.github.io/helm-chart/app2-0.1.0.tgz
     version: 0.1.0
-generated: "2021-04-04T15:23:40.504759514Z"
+generated: "2021-04-04T15:30:13.19383546Z"
